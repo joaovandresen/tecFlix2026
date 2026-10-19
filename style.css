@@ -44,6 +44,7 @@ p{
 
 .categoria-videos img {
     width: 100%;
-    max-width: 560px;
-    height: auto;
+    max-width: 400px;
+    height: 300;
 }
+
