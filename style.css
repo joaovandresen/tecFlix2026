@@ -48,3 +48,9 @@ p{
     height: 300;
 }
 
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    max-width: 100%;
+}
